@@ -1,0 +1,20 @@
+.login-page {
+  background-image: url(../../assets/images/login-frame.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+}
+
+.login-page .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.login-page .form .error {
+  padding-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: red;
+}

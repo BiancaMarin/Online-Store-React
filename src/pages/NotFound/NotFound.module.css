@@ -1,0 +1,22 @@
+.not-found {
+  background-image: url(../../assets/images/notFound-frame.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found p {
+  padding-top: 2rem;
+}
+
+.not-found .btns {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin-top: 2rem;
+}

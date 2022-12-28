@@ -1,0 +1,12 @@
+.category-btns {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 767px) {
+  .category-btns {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

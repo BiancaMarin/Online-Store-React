@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,800;1,6..96,500&family=Fredoka+One&family=Hurricane&family=Poppins:wght@300;400;700;800&family=Roboto&family=Shadows+Into+Light&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  /* color: #343a40; */
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
