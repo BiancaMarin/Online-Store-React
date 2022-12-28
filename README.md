@@ -4,7 +4,7 @@ Responsive basic online store build with React Js, consuming Fake Store API.
 
 ## Getting started
 
-$ git clone: https://Bianca_Marin12@bitbucket.org/radup-ensemble/tech-test-bianca-marin.git
+$ git clone: https://github.com/BiancaMarin/Online-Store-React.git
 
 $npm install (install node modules)
 
